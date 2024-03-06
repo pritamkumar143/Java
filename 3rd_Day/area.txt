@@ -1,0 +1,6 @@
+area of circle = pi (radius of circle)^2
+
+input = radius of circle
+float area = pi (radius of circle)^2
+                3.14* rad * rad;
+System.out.println(area)

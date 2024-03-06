@@ -1,0 +1,9 @@
+ a * b
+
+ scanner 
+ input a (sc.nextInt)
+ input b (sc.nextInt)
+
+ int product  = a * b;
+
+ System.out.println(product);
