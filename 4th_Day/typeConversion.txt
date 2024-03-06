@@ -1,0 +1,10 @@
+type ->type
+int -> float 
+int    -> boolean 
+ConversionType -> conversion hapeens when:
+a. type compatible 
+b. destination type > source type
+
+
+
+byte -> short -> int -> long -> double
