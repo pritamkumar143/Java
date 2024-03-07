@@ -1,0 +1,22 @@
+Type Promotion in Expression:
+1. Java automatically promets each byte ,short,or char operand to int 
+when evaluating an expression.
+
+2. if one operand is long ,float or double the whole expression is promoted to
+ long ,float or double respectively.
+
+  a + b * c / e
+ |    |     |    |
+int,float, char, long
+
+
+
+// Wromg
+byte b =15;
+b= b * 2;
+
+
+//right
+
+byte b = 15;
+ b = (byte)(b * 2);

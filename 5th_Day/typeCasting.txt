@@ -1,0 +1,11 @@
+int marks = (int) (99.99f)
+
+
+type casting -> narrowing  conversion and explicit conversion, 
+
+float a = 30.5;
+
+int b = a; ❎
+
+int b = (int)a;  ✅
+
