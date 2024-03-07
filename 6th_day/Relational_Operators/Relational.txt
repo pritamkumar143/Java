@@ -1,0 +1,8 @@
+Relational Operators
+a = 12,b=6
+== --> equal 
+!= --> not equal
+> --> Greater than
+< --> Less than
+>= Greater than or equal
+<= -> Less than or equal
