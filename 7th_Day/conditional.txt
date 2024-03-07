@@ -1,0 +1,27 @@
+Conditional Statement:---
+
+if,else
+
+else if
+
+ternary Operator
+
+Switch
+
+if-else :---
+
+if (condition){
+    //condition = a>b,a<b,a<=b,a>=b
+}
+else{
+
+}
+
+int age=22;
+
+if(age>=18){
+    syso("vote,drive");
+}
+else{
+    syso("not eligible,drive"); 
+}
