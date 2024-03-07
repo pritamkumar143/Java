@@ -1,0 +1,36 @@
+operator -> Symbols that tell compiler to perform some operation
+
+sum = a             +             b
+      |             |             |
+      operands     operator       operands
+                    expression
+
+Types of operators:-
+
+Arithmetic operators(Binary/Unary/Ternary)
+Relational operators
+Logical operators
+Bitwise operators (Bit Manipulation)
+Assignment operators
+
+
+Arithmetic operators:-
+    Binary                     Unary
+    + -> A + B                  ++ -> a++  & ++a -> increment
+    - -> A - B                  -- -> a-- & -- a -> decrement
+    * -> A * B
+    / -> A / B
+    %(modulo) -> A % B //remainder
+
+
+    Unary operators
+
+    pre increment           post increment
+    ++a                          a++
+    1. Value change            1.value use
+    2. value use                2.value change
+    int a = 12;
+    int b = ++a;
+            a+1
+    sysout(a) // 11
+    sysout(b) // 11
