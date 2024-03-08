@@ -1,0 +1,16 @@
+unary -> 1 operands;
+binary -> 2 operands;
+ternary -> 3 operands;
+
+
+
+
+variable = condition? Statement1 : Statement2;
+
+
+boolean larger = (5>3)? 5:3;
+
+
+String type = (5%2 == 0)? "Event" : "Odd";
+
+

@@ -25,3 +25,19 @@ if(age>=18){
 else{
     syso("not eligible,drive"); 
 }
+
+
+
+
+================================================================
+
+else if :-------
+
+if(condition 1){
+
+}
+else if(condition 2){
+}
+else{
+    
+}

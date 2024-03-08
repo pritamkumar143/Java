@@ -1,0 +1,10 @@
+Switch (vriable) {
+    case 1:
+
+    case 2:
+
+    case3:
+
+    default:
+    
+}
