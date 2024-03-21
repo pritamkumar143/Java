@@ -1,0 +1,14 @@
+Loop:--
+        while Loop:--
+
+        for Loop:--
+
+        do while Loop:--
+
+
+while Loop:--
+
+            while(condition){
+                //do something
+                
+            }
