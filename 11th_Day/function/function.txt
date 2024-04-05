@@ -1,0 +1,30 @@
+Functions/Method ---> Block of code/ Reusable
+
+{
+
+    -----
+    -------
+    ---------
+
+
+}
+
+Syntax --->
+
+
+returnType () {
+    //body
+    return Statement;
+
+}
+
+
+
+Syntax  with Parameter--->
+
+retyrnType name (type param1, type param2) {
+
+//body 
+return statement;
+
+}
